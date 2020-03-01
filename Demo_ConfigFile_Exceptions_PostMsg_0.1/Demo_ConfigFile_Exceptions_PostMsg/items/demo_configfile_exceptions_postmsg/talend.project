@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_tfVnUYM-EeiYIIkK49aL1g" label="Demo_ConfigFile_Exceptions_PostMsg" description="" language="java" technicalLabel="DEMO_CONFIGFILE_EXCEPTIONS_POSTMSG" local="true" author="_tfVnUoM-EeiYIIkK49aL1g" productVersion="Talend Cloud Big Data Platform-7.2.1.20190909_1200_patch" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_jjci4H0pEemQbvoPgGP1LQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_tfVnUoM-EeiYIIkK49aL1g" login="hakoneriksson@kvaerner.com" firstName="Hakon" lastName="Eriksson" type="DQ"/>
+  <TalendProperties:User xmi:id="_uyG2wIM-EeiYIIkK49aL1g" login="anna.broyn@kvaerner.com" firstName="Anna" lastName="Brøyn" type="DQ"/>
+  <TalendProperties:User xmi:id="_IV94sJPsEeicVYwz0m8uMg" login="martin.keseler.barland@kvaerner.com" firstName="Martin" lastName="Barland" type="DQ"/>
+  <TalendProperties:User xmi:id="_5MwSMKt2EeiMwdpyaCbPFA" login="stephen.allwright@kvaerner.com" firstName="Stephen" lastName="Allwright" type="DQ"/>
+  <TalendProperties:User xmi:id="_SHFgIPO1Eeil97FJ-vkeoQ" login="sara.hjelvik@kvaerner.com" firstName="Sara" lastName="Hjelvik" type="DQ"/>
+  <TalendProperties:User xmi:id="_VpR6YEWMEem1Z7Daj3w9dQ" login="viktoria.rosjo@kvaerner.com" firstName="Viktoria" lastName="Røsjø" type="DQ"/>
+  <TalendProperties:User xmi:id="_lFN8cM_PEemdU7dziqpy5A" login="mikkel.naes@kvaerner.com" firstName="Mikkel" lastName="Næs" type="DQ"/>
+  <TalendProperties:User xmi:id="_EktBlzN6EeqoGJU7oCeg9Q" login="bogdan.osyka@kvaerner.com" firstName="Bogdan" lastName="Osyka" type="DQ"/>
+  <TalendProperties:User xmi:id="_vdp5kFIpEeqrWZH09dCZrQ" login="ivan.johannessen@kvaerner.com" firstName="Ivan" lastName="Johannessen" type="DQ"/>
+  <TalendProperties:User xmi:id="_hc7lIFsOEeqLBM1xzxmdkQ" login="user@talend.com" password="D41D8CD98F00B204E9800998ECF8427E"/>
+</xmi:XMI>
